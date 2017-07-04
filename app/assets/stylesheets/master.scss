@@ -35,8 +35,14 @@ body {
 
 .pagination nav {
   margin: auto;
+  font-family: 'quicksandregular';
 }
 
 .pagination .page-item.active .page-link {
   background-color: #5CD6D4;
+  border-color: #5CD6D4;
+}
+
+.pagination .page-link {
+  color: black;
 }
