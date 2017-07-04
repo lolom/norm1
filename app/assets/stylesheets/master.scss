@@ -32,3 +32,11 @@ body {
   font-family: 'quicksandbold', sans-serif;
   font-size: 28px;
 }
+
+.pagination nav {
+  margin: auto;
+}
+
+.pagination .page-item.active .page-link {
+  background-color: #5CD6D4;
+}
